@@ -1,0 +1,22 @@
+﻿Import the relevant data below into Construct2.
+
+################################################################################
+
+Character width: 10
+Character height: 16
+Character set: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,;:?!-_~#"'&()[]|`\/@°+=*$£€<>%
+
+################################################################################
+Copy the following JSON text and paste into the Array.Load command INSIDE the default quotes.
+
+{""c2array"":true,""size"":[2,6,1],""data"":[[[3],[4],[5],[6],[7],[8]],[[""'|""],["".:![`""],["",;)]""],[""BEFIJLPbchilnprsuz35?-\""(\\°*>""],[""CGHKNRSUZadejkqt126789/=$£€<""],[""ADMOQTVWXYfgmovwxy04_~#&@+%""]]]}
+
+################################################################################
+These are the details for building the character widths manually, with the SpriteFont  'Set character width' action.
+
+3	"'|"
+4	".:![`"
+5	",;)]"
+6	"BEFIJLPbchilnprsuz35?-""(\°*>"
+7	"CGHKNRSUZadejkqt126789/=$£€<"
+8	"ADMOQTVWXYfgmovwxy04_~#&@+%"

@@ -1,0 +1,30 @@
+lm edellyttää mukautettua resurssipakettia.
+mco.configure.world.resourcepack.question.line2=Haluatko että se ladataan ja asennetaan automaattisesti?
+mco.configure.world.restore.download.question.line1=Maailma ladataan ja lisätään sinun yksinpeli maailmoihisi.
+mco.configure.world.restore.download.question.line2=Haluatko jatkaa?
+mco.configure.world.restore.question.line1=Realmisi palautetaan päivämäärään '%s' (%s)
+mco.configure.world.restore.question.line2=Haluatko varmasti tehdä tämän?
+mco.configure.world.settings.title=Asetukset
+mco.configure.world.slot=Maailma %s
+mco.configure.world.slot.empty=Tyhjä
+mco.configure.world.slot.switch.question.line1=Realmisi vaihdetaan toiseen maailmaan
+mco.configure.world.slot.switch.question.line2=Haluatko varmasti tehdä tämän?
+mco.configure.world.slot.tooltip=Vaihda maailma
+mco.configure.world.slot.tooltip.active=Tuplaklikkaa liittyäksesi
+mco.configure.world.slot.tooltip.minigame=Vaihda minipeliin
+mco.configure.world.spawnAnimals=Muodosta eläimiä
+mco.configure.world.spawnMonsters=Muodosta hirviöitä
+mco.configure.world.spawnNPCs=Muodosta NPC-hahmoja
+mco.configure.world.spawnProtection=Aloitussuojaus
+mco.configure.world.status=Tila
+mco.configure.world.subscription.day=Päivä
+mco.configure.world.subscription.days=Päivää
+mco.configure.world.subscription.expired=Erääntynyt
+mco.configure.world.subscription.extend=Pidennä tilausta
+mco.configure.world.subscription.extendHere=Pidennä tilausta täällä:
+mco.configure.world.subscription.less_than_a_day=Alle päivä
+mco.configure.world.subscription.month=Kuukausi
+mco.configure.world.subscription.months=Kuukautta
+mco.configure.world.subscription.recurring.daysleft=Uudistettu automaattisesti
+mco.configure.world.subscription.start=Aloituspäivä
+mco.config

@@ -1,0 +1,410 @@
+{
+   "add": {
+      "description": "This is the label for the 'Add' buttons.",
+      "message": "추가"
+   },
+   "add_domain_button": {
+      "description": "",
+      "message": "도메인 추가"
+   },
+   "add_filter_button": {
+      "description": "",
+      "message": "필터 추가"
+   },
+   "add_filter_manually": {
+      "description": "Second step in blocking ad manually",
+      "message": "차단할 요소 선택:"
+   },
+   "add_filters_msg": {
+      "description": "",
+      "message": "새 필터를 추가하시겠습니까?"
+   },
+   "add_your_own_filters": {
+      "description": "List od blocked elements",
+      "message": "사용자 고유의 필터 추가"
+   },
+   "apply_changes": {
+      "description": "",
+      "message": "변경 내용 적용"
+   },
+   "block_element": {
+      "description": "Context menu item that adds a filter which blocks the selected element",
+      "message": "요소 차단"
+   },
+   "block_this_ad": {
+      "description": "Action button for manual blocking of selected element",
+      "message": "이 광고 차단"
+   },
+   "blocked_ads": {
+      "description": "Popup - display number of blocked ads",
+      "message": "이 페이지에서 차단된 광고"
+   },
+   "cancel": {
+      "description": "Cancel button label",
+      "message": "취소"
+   },
+   "clickhide_instructions": {
+      "description": "Instructions shown in popup UI before it disapears, when \"Block element\" action is executed",
+      "message": "이 메시지를 닫은 후, 이 페이지의 요소를 클릭(또는 마우스 오른쪽 버튼으로 클릭)하십시오."
+   },
+   "description_chrome": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "5천만 명이 넘는 사람들이 사용하는 Chrome용 무료 광고 차단기가 성가신 광고, 맬웨어, 추적을 모두 차단합니다."
+   },
+   "description_opera": {
+      "description": "",
+      "message": "5천만 명이 넘는 사람들이 사용하는 Opera용 무료 광고 차단기가 성가신 광고, 맬웨어, 추적을 모두 차단합니다."
+   },
+   "description_safari": {
+      "description": "",
+      "message": "5천만 명이 넘는 사람들이 사용하는 Safari용 무료 광고 차단기가 성가신 광고, 맬웨어, 추적을 모두 차단합니다."
+   },
+   "disabled_for_site": {
+      "description": "Popup balloon label to disable blocking",
+      "message": "이 사이트에서\u003Cstrong>사용할 수 없음\u003C/strong>"
+   },
+   "disabled_for_these_domains": {
+      "description": "",
+      "message": "아래에 나온 도메인에서는 광고 차단기를 사용할 수 없습니다. 주소 표시줄의 광고 차단기 아이콘을 통해 또는 상자에 도메인(URL 아님)을 입력하고 \"도메인 추가\" 버튼을 클릭하여 도메인을 추가할 수 있습니다."
+   },
+   "easy_create_filter": {
+      "description": "Start blocking ad manually",
+      "message": "이 페이지에서 광고 차단"
+   },
+   "edit_filters_raw": {
+      "description": "",
+      "message": "필터를 원시 텍스트로 편집"
+   },
+   "enable_only_the": {
+      "description": "Instruction for user in filter list",
+      "message": "필요한 필터 목록만 사용하십시오. 너무 많은 필터를 사용하면 브라우저가 응답하지 않을 수 있습니다."
+   },
+   "enabled_for_page": {
+      "description": "Disable adblock for particluar page",
+      "message": "이 페이지에서 실행하지 않음"
+   },
+   "enabled_for_site": {
+      "description": "Popup balloon label to enable blocking",
+      "message": "이 사이트에서\u003Cstrong>사용할 수 있음\u003C/strong>"
+   },
+   "extension_name": {
+      "description": "Name shown in SZB Control Center.",
+      "message": "광고 차단기"
+   },
+   "extension_title": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "탐색하는 페이지에서 광고를 차단합니다."
+   },
+   "filter_lists": {
+      "description": "This is a tab heading.",
+      "message": "필터 목록"
+   },
+   "filter_must_follow_syntax": {
+      "description": "",
+      "message": "필터는 \u003Ca>광고 차단기 필터 구문\u003C/a>을 따라야 합니다."
+   },
+   "filters_acceptableAds2_label": {
+      "message": "비침입형 광고 허용"
+   },
+   "filters_addSubscriptionAdd_label": {
+      "message": "추가"
+   },
+   "filters_addSubscriptionOther_label": {
+      "message": "다른 구독 필터 추가 (F)"
+   },
+   "filters_addSubscription_label": {
+      "message": "구독 필터 추가"
+   },
+   "filters_readMore_label": {
+      "message": "자세히 보기"
+   },
+   "filters_subscription_delete_label": {
+      "message": "삭제"
+   },
+   "filters_subscription_enabled_label": {
+      "message": "사용"
+   },
+   "filters_subscription_lastDownload_checksumMismatch": {
+      "message": "실패함 : 검사합 불일치"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "실패함 : 다운로드 실패"
+   },
+   "filters_subscription_lastDownload_inProgress": {
+      "message": "다운로드 중..."
+   },
+   "filters_subscription_lastDownload_invalidData": {
+      "message": "실패함 : 올바르지 않은 필터"
+   },
+   "filters_subscription_lastDownload_invalidURL": {
+      "message": "실패함 : 올바르지 않은 주소"
+   },
+   "filters_viewList_label": {
+      "message": "필터 목록 보기"
+   },
+   "firstRun_abbButtonSubtitle": {
+      "message": "Android 및 iOS용 사용 가능"
+   },
+   "firstRun_abbButtonTitle": {
+      "message": "여기에서 Adblock Browser 가져오기"
+   },
+   "firstRun_abbPromotionHeadline": {
+      "message": "스마트폰 또는 태블릿이 있습니까?"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "우리는 비침입적이며 이용자 친화적인 광고 방식을 채택한 웹사이트를 격려하고자 합니다. 특정 광고를 허용하기 위한 \u003Ca>광고 허용 지침\u003C/a>을 수립하였으며, 기본 설정으로 그러한 광고는 화면에 표시됩니다. 모든 광고를 차단하려면 이 기능의 \u003Ca>사용을 중지\u003C/a>할 수 있습니다."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "인터넷 이용을 방해하거나 불법·유해한 광고는 이제 차단될 것입니다"
+   },
+   "firstRun_contributor_credits": {
+      "message": "공헌자 명단"
+   },
+   "firstRun_dataCorruptionWarning": {
+      "message": "이 페이지를 계속해서 보시겠습니까? \u003Ca>여기 클릭!\u003C/a>"
+   },
+   "firstRun_donate": {
+      "message": "기부"
+   },
+   "firstRun_donate_label": {
+      "message": "프로젝트 지원"
+   },
+   "firstRun_feature_malware": {
+      "message": "맬웨어 차단"
+   },
+   "firstRun_feature_malware_description": {
+      "message": "널리 알려진 맬웨어 도메인을 차단함으로써 웹을 더 안전하게 이용합니다."
+   },
+   "firstRun_feature_social": {
+      "message": "사회관계망 서비스 버튼 제거"
+   },
+   "firstRun_feature_social_description": {
+      "message": "웹페이지상에 인터넷 사용 행태를 추적하는 사회관계망 서비스 버튼을 자동으로 제거해줍니다."
+   },
+   "firstRun_feature_tracking": {
+      "message": "추적 차단"
+   },
+   "firstRun_feature_tracking_description": {
+      "message": "광고 회사가 수집하는 사용자 추적 정보를  유출되지 않게 하여 개인 정보를 보호합니다."
+   },
+   "firstRun_features": {
+      "message": "애드블록 플러스는 광고 차단 이외 다양한 기능이 있습니다"
+   },
+   "firstRun_filterlistsReinitializedWarning": {
+      "message": "문제가 발생하여 모든 필터가 제거되고, 백업을 복원할 수 없습니다. 그러므로 사용자 필터와 허용 광고 설정을 초기화했어야 합니다. \u003Ca>애드블록 플러스 옵션\u003C/a>에서 구독필터와 허용 광고 설정을 확인하십시오."
+   },
+   "firstRun_legacySafariWarning": {
+      "message": "애드블록 플러스에서 지원하지 않는 구버전 사파리를 사용하고 있습니다. 그래서 일부 사이트에서 정상적인 작동을 하지 않거나 사용자 경험에 손상을 줄 수 있습니다. 사파리 6.6.1 이상(OS X 10.8 Mountain Lion), 또는 사파리 7.0.1 이상(OS X 10.9 Mavericks) 또는 모질라 파이어폭, 구글 크롬, 오페라의 최신 버전을 사용할 것을 권장합니다."
+   },
+   "firstRun_share": {
+      "message": "홍보"
+   },
+   "firstRun_share_headline": {
+      "message": "더 나은 웹을 만들기 위해 \u003Ca>공헌하기\u003C/a>"
+   },
+   "firstRun_title": {
+      "message": "애드블록 플러스가 설치되었습니다."
+   },
+   "firstRun_toggle_off": {
+      "message": "끄기"
+   },
+   "firstRun_toggle_on": {
+      "message": "켜기"
+   },
+   "found_a_bug": {
+      "description": "",
+      "message": "버그를 발견하셨습니까? 광고 차단기를 사용 중인 언어로 번역하시겠습니까? \u003Ca>여기에 요청\u003C/a>하십시오."
+   },
+   "general": {
+      "description": "This is a tab heading.",
+      "message": "일반"
+   },
+   "global_filter_cssproperty_nodomain": {
+      "message": "CSS 속성 필터에 대한 활성 도메인이 없습니다."
+   },
+   "global_filter_elemhide_duplicate_id": {
+      "message": "숨기려는 요소의 ID는 한 개만 지정할 수 있습니다."
+   },
+   "global_filter_elemhide_nocriteria": {
+      "message": "숨기려는 요소를 인식하기 위한 기준이 지정되지 않았습니다."
+   },
+   "global_notification_antiadblock_message": {
+      "message": "이 사이트는 애드블록 플러스 사용자에게 표적 메시지를 보여주는 것으로 알려져 있습니다. 애드블록 플러스로 표적 메시지를 숨기겠습니까?"
+   },
+   "global_notification_antiadblock_title": {
+      "message": "표적 메시지를 숨기겠습니까?"
+   },
+   "global_remove_subscription_warning": {
+      "message": "이 구독 필터를 제거하시겠습니까?"
+   },
+   "global_subscription_invalid_location": {
+      "message": "구독 필터의 위치에 입력하는 URL 또는 파일명이 올바르지 않습니다."
+   },
+   "invalid_css_selector": {
+      "description": "",
+      "message": "$selector$이(가) 올바른 CSS 선택기가 아님",
+      "placeholders": {
+         "selector": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_updated_at": {
+      "description": "e.g. Last updated at 3:00pm on Apr 1, 2011",
+      "message": "최근 업데이트: $date$, $time$",
+      "placeholders": {
+         "date": {
+            "content": "$2"
+         },
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_updated_at_today": {
+      "description": "e.g. Last updated at 3:00pm today",
+      "message": "최근 업데이트: 오늘, $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "line": {
+      "description": "Prepended to error messages to indicate the line number (e.g. \"Line 42: Some error on this line\")",
+      "message": "$number$ 라인",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "name": {
+      "message": "Ad Blocker"
+   },
+   "name_devbuild": {
+      "description": "Extension name to be shown for development builds. Note: this cannot be longer than 45 characters.",
+      "message": "광고 차단기 개발 빌드"
+   },
+   "notification_configure": {
+      "description": "",
+      "message": "알림 설정 구성"
+   },
+   "notification_open_all": {
+      "description": "",
+      "message": "이 알림에서 모든 링크 열기"
+   },
+   "notification_with_buttons": {
+      "description": "",
+      "message": "이 알림에 포함된 모든 링크를 열려면 '확인'을 클릭하십시오."
+   },
+   "notification_without_buttons": {
+      "description": "",
+      "message": "알림에 포함된 모든 링크를 열려면 알림을 클릭하십시오."
+   },
+   "options": {
+      "description": "",
+      "message": "광고 차단기 옵션"
+   },
+   "options_short": {
+      "description": "Link to the options page from the popup balloon.",
+      "message": "옵션"
+   },
+   "out_of_date_lists": {
+      "description": "",
+      "message": "오래된 목록은 주기적으로 업데이트됩니다."
+   },
+   "overlay_notification_button_no": {
+      "message": "아니요"
+   },
+   "overlay_notification_button_yes": {
+      "message": "예"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "이 알림 닫기"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "알림 표시를 중지합니다"
+   },
+   "overlay_shownotifications_label": {
+      "message": "유용한 알림 표시"
+   },
+   "remove_button": {
+      "description": "This is the label for the 'Remove selected' buttons.",
+      "message": "선택 항목 제거"
+   },
+   "show_block_element_menu": {
+      "description": "Allow user to block ad by clicking item in right-click menu",
+      "message": "마우스 오른쪽 버튼 메뉴에 '요소 차단' 표시"
+   },
+   "stats_label_page": {
+      "description": "This shows the number of blocked requests on a specific page in the popup.",
+      "message": "이 페이지에서 차단된 요청 수: \u003Cstrong>$number$\u003C/strong>",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_label_total": {
+      "description": "This shows the total number of blocked requests in the popup.",
+      "message": "총 \u003Cstrong>$number$\u003C/strong>개",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_over": {
+      "description": "For some numbers the stats share message will say 'I blocked over 123 ads' instead of 'I blocked 123 ads'. This is a reference to the 'over 9000' meme. This string can be translated simply with '$number$' if that meme isn't known to the speakers of the language or if the resulting sentence would sound weird otherwise.",
+      "message": "$number$개 이상",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_share_download": {
+      "description": "Label for link to adblockplus.org that is attached when the user wants to share the stats on Facebook.",
+      "message": "광고 차단기 다운로드"
+   },
+   "stats_share_message": {
+      "description": "This message will be posted to social networks if the user decides to share the stats.",
+      "message": "광고 차단기를 통해 $number$개 광고와 추적기를 차단했습니다.",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "stats_share_title": {
+      "description": "Label for social media buttons sharing the number of blocked ads",
+      "message": "이 개수 공유"
+   },
+   "stats_show_iconnumber": {
+      "description": "Toggle for displaying the number of blocked ads in the icon.",
+      "message": "아이콘에서 개수 표시"
+   },
+   "stats_title": {
+      "description": "Title for the stats section in the popup.",
+      "message": "광고 차단됨"
+   },
+   "subscriptionSelection_location_label": {
+      "message": "위치"
+   },
+   "subscriptionSelection_subscriptionSelector_label": {
+      "description": "",
+      "message": "목록에서 구독할 필터를 선택하십시오."
+   },
+   "subscriptionSelection_title_label": {
+      "message": "이름"
+   },
+   "unexpected_filter_list_header": {
+      "description": "Error message shown when the user attempts to add a custom filter that has the format of a header (e.g. \"[Adblock Plus 2.0]\") which are only allowed in filter lists",
+      "message": "필터 목록 헤더가 여기에서 허용되지 않습니다."
+   },
+   "update_now": {
+      "description": "",
+      "message": "지금 업데이트"
+   },
+   "whitelisted_domains": 

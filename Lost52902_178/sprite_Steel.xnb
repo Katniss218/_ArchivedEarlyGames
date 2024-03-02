@@ -1,0 +1,77 @@
+<html>	<head>			<title>Overwolf_12-31-13_22-07-16.Game.html</title>		<style type="text/css">table.gridtable {	font-family: verdana,arial,sans-serif;	font-size:11px;	color:#333333;	border-width: 1px;	border-color: #666666;	border-collapse: collapse;}table.gridtable th {	border-width: 1px;	padding: 8px;	padding-right:2px;	padding-left:2px;	border-style: solid;	border-color: #666666;	background-color: #dedede;	font-size:9px;}table.gridtable td {	background: #ffffff;	color:#000000;	border-width: 10px;	padding: 1px;	padding-right:14px;	padding-left:14px;	border-style: solid;	border-color: #666666;}tr.debug td {background: #f7f7f7;color:#000000;border-width: 0px;padding: 1px;border-style: solid;border-color: #666666;padding-right:6px;padding-left:6px;}tr.note td {background: #aaaaaa;color:#000000;border-width: 0px;padding: 1px;border-style: solid;border-color: #666666;padding-right:6px;padding-left:6px;}tr.info td {background: #ffffff;color:#000000;border-width: 0px;padding: 1px;border-style: solid;border-color: #666666;padding-right:6px;padding-left:6px;}tr.warning td {background: #ffff00;color:#000000;border-width: 0px;padding: 1px;border-style: solid;border-color: #666666;padding-right:6px;padding-left:6px;}tr.error td {background: #ff0000;color:#000000;border-width: 0px;padding: 1px;border-style: solid;border-color: #666666;padding-right:6px;padding-left:6px;}</style></head>	<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"></body><table class="gridtable">
+<tr><th>Time</th><th>Thread</th><th>Line</th><th>Function</th><th>Message</th></tr>
+<tr class="debug"><td>22:07:19</td><td>D30</td><td>147</td><td>OWServer::LogOutHeader</td><td style="background-color:FFFFFF">OverWolf Client Version: 0.47.284.0
+</td></tr>
+<tr class="debug"><td>22:07:19</td><td>D30</td><td>166</td><td>OWServer::LogOutHeader</td><td style="background-color:FFFFFF">OverWolf Overlay Server Version: 2.0.1.25
+</td></tr>
+<tr class="debug"><td>22:07:19</td><td>D30</td><td>178</td><td>OWServer::LogOutHeader</td><td style="background-color:FFFFFF">===================================================</td></tr>
+<tr class="debug"><td>22:07:19</td><td>D30</td><td>179</td><td>OWServer::LogOutHeader</td><td style="background-color:FFFFFF"></td></tr>
+<tr class="debug"><td>22:07:19</td><td>D30</td><td>318</td><td>OWServer::OpenServerThread</td><td style="background-color:FFFFFF">Termination method:		MANUAL</td></tr>
+<tr class="debug"><td>22:07:19</td><td>D30</td><td>333</td><td>OWServer::OpenServerThread</td><td style="background-color:FFFFFF">Control Mode:			Control By Events</td></tr>
+<tr class="debug"><td>22:07:19</td><td>D30</td><td>355</td><td>OWServer::OpenServerThread</td><td style="background-color:FFFFFF">Capture system:	                OFF</td></tr>
+<tr class="debug"><td>22:07:19</td><td>D30</td><td>365</td><td>OWServer::OpenServerThread</td><td style="background-color:FFFFFF">target application:		Overwolf.exe</td></tr>
+<tr class="info"><td>22:07:19</td><td>D30</td><td>367</td><td>OWServer::OpenServerThread</td><td style="background-color:FFFFFF">Create parent shared memory...</td></tr>
+<tr class="info"><td>22:07:19</td><td>D30</td><td>376</td><td>OWServer::OpenServerThread</td><td style="background-color:FFFFFF">Create parent shared memory OK</td></tr>
+<tr class="error"><td>22:07:19</td><td>D30</td><td>175</td><td>VTableHolderD3d11::init</td><td style="background-color:FFFF99">Load library failed.</td></tr>
+<tr class="error"><td>22:07:19</td><td>D30</td><td>225</td><td>VTableHolderD3d11::findVFunctionPosition</td><td style="background-color:FFFF99">findVFunctionPosition Failed.</td></tr>
+<tr class="info"><td>22:07:19</td><td>D30</td><td>4795</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">Failed.</td></tr>
+<tr class="info"><td>22:07:19</td><td>D30</td><td>46</td><td>Update::Detect</td><td style="background-color:FBBF7D">Env (C:\WINDOWS\system32\) <0X6DEE0000>5|3|170399112</td></tr>
+<tr class="info"><td>22:07:19</td><td>D30</td><td>4918</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X4C730|313136</td></tr>
+<tr class="info"><td>22:07:19</td><td>D30</td><td>4918</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X4C750|313168</td></tr>
+<tr class="info"><td>22:07:19</td><td>D30</td><td>4918</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X4CCE0|314592</td></tr>
+<tr class="info"><td>22:07:19</td><td>D30</td><td>4918</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X4E3B0|320432</td></tr>
+<tr class="info"><td>22:07:19</td><td>D30</td><td>4918</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X4CC50|314448</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>46</td><td>Update::Detect</td><td style="background-color:FBBF7D">Env (C:\WINDOWS\system32\) <0X4FD50000>5|3|170399112</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>121</td><td>DXManager::Detect</td><td style="background-color:FBBF7D">OK</td></tr>
+<tr class="error"><td>22:07:20</td><td>D30</td><td>144</td><td>VTableHolderD3d9::init</td><td style="background-color:FFFF99">Failed to GetProcAddress</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>4865</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X3FA00|260608</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>4865</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X403F0|263152</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>4865</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X40FB0|266160</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>4865</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X436B0|276144</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>4865</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X40EA0|265888</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>4865</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X39230|234032</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>4854</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">Failed.</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>46</td><td>Update::Detect</td><td style="background-color:FBBF7D">Env (C:\WINDOWS\system32\) <0X72230000>5|3|170399112</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>5022</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X5514|21780</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>5022</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X58FE|22782</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>5022</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X5A6B|23147</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>46</td><td>Update::Detect</td><td style="background-color:FBBF7D">Env (C:\WINDOWS\system32\) <0X6D350000>5|3|170399112</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>4970</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X5E4B|24139</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>4970</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X80A7|32935</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>4970</td><td>Initialize::GetLocation</td><td style="background-color:CCFFCC">@ 0X827B|33403</td></tr>
+<tr class="error"><td>22:07:20</td><td>D30</td><td>1769</td><td>ServerManager::setHookFunctionsData</td><td style="background-color:B69576">Failed -> setHookFunctionsData_D3D11</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>1468</td><td>ServerManager::setInjectionSystem</td><td style="background-color:B69576">Injection system ON - Games injection only</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>452</td><td>OWServer::OpenServerThread</td><td style="background-color:FFFFFF">OWExplorer-20125.dll was successfully loaded.</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>461</td><td>OWServer::OpenServerThread</td><td style="background-color:FFFFFF">OWExplorer-20125.dll was successfully hooked.</td></tr>
+<tr class="info"><td>22:07:20</td><td>D30</td><td>992</td><td>ServerInitializeAsync::Execute</td><td style="background-color:00FFCC">Server Initialize Done.</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>744</td><td>Agent::init</td><td style="background-color:3366FF">Agent is Normal</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>854</td><td>Agent::hook</td><td style="background-color:3366FF">Agent enter.</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>446</td><td>Install::Code</td><td style="background-color:FFCCCC">Init [Agent,2] (M) OK</td></tr>
+<tr class="info"><td>22:07:20</td><td>D00</td><td>4534</td><td>ServerManager::SetFPSCounterDisplay</td><td style="background-color:B69576">SetFPSCounterDisplay (corner=0x1)</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>446</td><td>Install::Code</td><td style="background-color:FFCCCC">Init [Agent,3] (M) OK</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>446</td><td>Install::Code</td><td style="background-color:FFCCCC">Init [Agent,4] (M) OK</td></tr>
+<tr class="info"><td>22:07:20</td><td>D00</td><td>4642</td><td>ServerManager::SetAudioDevice</td><td style="background-color:B69576">Set Audio Device</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>446</td><td>Install::Code</td><td style="background-color:FFCCCC">Init [Agent,5] (M) OK</td></tr>
+<tr class="info"><td>22:07:20</td><td>D00</td><td>4655</td><td>ServerManager::SetAudioDevice</td><td style="background-color:B69576">Set Audio Device as What You Hear.</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>446</td><td>Install::Code</td><td style="background-color:FFCCCC">Init [Agent,6] (M) OK</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>446</td><td>Install::Code</td><td style="background-color:FFCCCC">Init [Agent,6.1] (M) OK</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>446</td><td>Install::Code</td><td style="background-color:FFCCCC">Init [Agent,12] (M) OK</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>446</td><td>Install::Code</td><td style="background-color:FFCCCC">Init [Agent,13] (M) OK</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>446</td><td>Install::Code</td><td style="background-color:FFCCCC">Init [Agent,14] (M) OK</td></tr>
+<tr class="info"><td>22:07:20</td><td>F10</td><td>2074</td><td>ServerManager::injectIntoOverWolfApplication</td><td style="background-color:B69576">Agent hooked successfully.</td></tr>
+<tr class="info"><td>22:07:25</td><td>F10</td><td>1332</td><td>UnknownProcessFoundEvent::LogOut</td><td style="background-color:00A400">[OWAPI] New Event OWAPI_EVENT_UNKNOWN_PROCESS_FOUND (PID = 2704, ProcessName = C:\Program Files\Overwolf\Overwolf.exe)</td></tr>
+<tr class="info"><td>22:07:25</td><td>F10</td><td>1335</td><td>UnknownProcessFoundEvent::LogOut</td><td style="background-color:006400">[OWAPI] New Event OWAPI_EVENT_UNKNOWN_PROCESS_FOUND (PID = 2704, CmdLn : N/A)</td></tr>
+<tr class="info"><td>22:07:26</td><td>F10</td><td>1332</td><td>UnknownProcessFoundEvent::LogOut</td><td style="background-color:00A400">[OWAPI] New Event OWAPI_EVENT_UNKNOWN_PROCESS_FOUND (PID = 1476, ProcessName = C:\Program Files\LogMeIn Hamachi\hamachi-2-ui.exe)</td></tr>
+<tr class="info"><td>22:07:26</td><td>F10</td><td>1335</td><td>UnknownProcessFoundEvent::LogOut</td><td style="background-color:006400">[OWAPI] New Event OWAPI_EVENT_UNKNOWN_PROCESS_FOUND (PID = 1476, CmdLn : N/A)</td></tr>
+<tr class="info"><td>22:07:27</td><td>F10</td><td>1332</td><td>UnknownProcessFoundEvent::LogOut</td><td style="background-color:00A400">[OWAPI] New Event OWAPI_EVENT_UNKNOWN_PROCESS_FOUND (PID = 3260, ProcessName = C:\Program Files\TeamSpeak 3 Client\ts3client_win32.exe)</td></tr>
+<tr class="info"><td>22:07:27</td><td>F10</td><td>1335</td><td>UnknownProcessFoundEvent::LogOut</td><td style="background-color:006400">[OWAPI] New Event OWAPI_EVENT_UNKNOWN_PROCESS_FOUND (PID = 3260, CmdLn : N/A)</td></tr>
+<tr class="info"><td>22:07:29</td><td>D00</td><td>5035</td><td>ServerManager::SetWidgetProperties</td><td style="background-color:B69576">SetWidgetProperties (handle = 0x3502a0) style = 0x18, max size = [1920,1080], min size = [0, 0], drag hot zone = [0,0,0,0], shadow border = 0</td></tr>
+<tr class="info"><td>22:07:29</td><td>D00</td><td>768</td><td>fAgentShowWindow</td><td style="background-color:6699FF">Display of 0X3502A0 <5></td></tr>
+<tr class="info"><td>22:07:29</td><td>D00</td><td>1112</td><td>Agent::addImageInfo</td><td style="background-color:3366FF">Add new Widget - total number 1</td></tr>
+<tr class="info"><td>22:07:29</td><td>D00</td><td>163</td><td>WidgetConnector::connect</td><td style="background-color:FF66FF">Widget [0x3502a0] was connected-opened successfully.</td></tr>
+<tr class="info"><td>22:07:29</td><td>D00</td><td>1673</td><td>Agent::refreshImageInfos</td><td style="background-color:3366FF">[Wicket Connection] New Wicket was connected, {|HwndWrapper[Overwolf.exe;UI;55254c75-e370-4f83-9911-47ffdce3d47f]} handle=0x3502a0 alloc=(600, 430) style=0x160f0000 ExStyle=0x80108 widgetStyle = 0x0 </td></tr>
+<tr class="info"><td>22:07:29</td><td>D00</td><td>2278</td><td>ServerManager::SetProcessUsage</td><td style="background-color:B69576">SetProcessUsage [C:\Program Files\Overwolf\Overwolf.exe]=>PU_NO_USAGE</td></tr>
+<tr class="info"><td>22:07:29</td><td>D00</td><td>2278</td><td>ServerManager::SetProcessUsage</td><td style="background-color:B69576">SetProcessUsage [C:\Program Files\LogMeIn Hamachi\hamachi-2-ui.exe]=>PU_NO_USAGE</td></tr>
+<tr class="info"><td>22:07:29</td><td>D00</td><td>2278</td><td>ServerManager::SetProcessUsage</td><td style="background-color:B69576">SetProcessUsage [C:\Program Files\TeamSpeak 3 Client\ts3client_win32.exe]=>PU_MANUAL</td></tr>
+<tr class="info"><td>22:07:29</td><td>F10</td><td>113</td><td>ServerManager::ProcessEnumeration</td><td style="background-color:B69576">[NEW] Process<1/3> {2704,C:\Program Files\Overwolf\Overwolf.exe} got NO_USAGE => set to dismiss.</td></tr>
+<tr class="info"><td>22:07:29</td><td>F10</td><td>240</td><td>ServerManager::ProcessEnumeration</td><td sty

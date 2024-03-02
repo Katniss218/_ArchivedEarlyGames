@@ -1,0 +1,6 @@
+C:\Documents and Settings\Kuba\Pulpit\Rockets to Space\Rockets to Space\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kuba\Pulpit\Rockets to Space\Rockets to Space\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Kuba\Pulpit\Rockets to Space\Rockets to Space\bin\x86\Debug\Rockets to Space.exe
+C:\Documents and Settings\Kuba\Pulpit\Rockets to Space\Rockets to Space\bin\x86\Debug\Rockets to Space.pdb
+C:\Documents and Settings\Kuba\Pulpit\Rockets to Space\Rockets to Space\obj\x86\Debug\Rockets to Space.exe
+C:\Documents and Settings\Kuba\Pulpit\Rockets to Space\Rockets to Space\obj\x86\Debug\Rockets to Space.pdb

@@ -1,0 +1,20 @@
+ttämättä mitään.
+mco.minigame.world.noSelection=Tee valinta
+mco.minigame.world.restore=Lopetetaan minipeli...
+mco.minigame.world.restore.question.line1=Minipeli päättyy ja Realmisi palautetaan.
+mco.minigame.world.restore.question.line2=Haluatko varmasti tehdä tämän?
+mco.minigame.world.selected=Valittu minipeli:
+mco.minigame.world.slot.screen.title=Vaihdetaan maailmaa...
+mco.minigame.world.startButton=Vaihda
+mco.minigame.world.starting.screen.title=Aloitetaan minipeli...
+mco.minigame.world.stopButton=Lopeta minipeli
+mco.minigame.world.switch.new=Valitse toinen minipeli?
+mco.minigame.world.switch.title=Vaihda minipeli
+mco.minigame.world.title=Vaihda Realm minipeliin
+mco.reset.world.adventure=Seikkailukartat
+mco.reset.world.generate=Uusi maailma
+mco.reset.world.resetting.screen.title=Palautetaan Realmia...
+mco.reset.world.seed=Lähtöarvo (valinnainen)
+mco.reset.world.template=Selviytymisttilan aloituspisteet
+mco.reset.world.title=Nollaa Realm
+mco.re

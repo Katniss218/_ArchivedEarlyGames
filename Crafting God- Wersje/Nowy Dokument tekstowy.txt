@@ -1,0 +1,38 @@
+RIA
+{
+	1x True Hero Blade
+	{
+		1x Hero Blade
+		{
+			1x Vertex of Excalibur
+			{
+				1x Excalibur(hallowed tier sword)
+				{
+					##1x Adamantite Sword
+					##1x Mythrill Sword
+					##1x Palladium Sword
+					##1x Cobalt Sword
+				}
+				1x Night's Edge/Bloodbath/Thornblade
+				{
+					##1x EvilBiomeSword(Demonite/Crimzonite/Maladium)
+					##1x Obsidian Sword
+					##1x Jungle Sword
+					##1x meteorite Sword
+				}
+				##15x Soul of Light
+				##15x Soul of Night/Blood/Evil
+			}
+			##50x Soul of Light
+			##50x Soul of Night/Blood/Evil
+		}
+		##1x Broken Amulet (dropi z mobków w UHM)
+	}
+	##1x RIA plans (plany, wypadaj¹ z Obliviona)
+	##25x Soul of torture (2x zabicie obliviona da tak¹ iloœæ (30))
+	
+}
+- rusz postaæ
+- jesli kolizja
+      - zeruj predkosc,
+      - wyrownaj postac do kolidujacego bloku

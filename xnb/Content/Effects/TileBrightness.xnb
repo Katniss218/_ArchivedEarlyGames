@@ -1,0 +1,38 @@
+function startIntegrityCheck() {
+    var integrityButton = $('.b-integrity-wrapper .b-popup-button');
+
+    if (integrityButton.hasClass('b-popup-button-disabled')) {
+        return;
+    }
+
+    var dlg = $('#id_integrity_check_box').clone();
+    var buttons = {};
+
+    buttons[getLocalized('integrity-continue')] = function () {
+        $(this).dialog("close");
+        closePopup('#id_options_dialog');
+        doCMD({cmd: "PCMD_ON_LAUNCH_INTEGRITY"});
+    };
+
+    buttons[getLocalized('BtnCancel')] = function () {
+        $(this).dialog("close");
+    };
+
+    dlg.dialog({
+        width: 419,
+        resizable: false,
+        draggable: false,
+        dialogClass: 'd-integrity no-title',
+        buttons: buttons,
+        modal: true,
+        close: function () {
+            $(this).dialog('destroy').remove();
+            tooltipHide();
+            $('.ui-dialog').focus();
+        },
+        open: function () {
+            var optStatus = checkChangedOptions();
+            if (optStatus) {
+                $('.b-integrity-warning-txt').css('display', 'block');
+            } else {
+                $('.b-integrity-warning-txt').css('display', 'non

@@ -1,0 +1,159 @@
+title=โปรแกรมการตั้งค่าความปลอดภัยออนไลน์ของ Avast
+disabledTab=ท่านไม่สามารถให้คะแนนไฟล์พื้นฐานหรือแท็ปภายในได้
+webrepDisabled=ปิดการใช้งาน WebRep
+InternalTabs=ท่านไม่สามารถให้คะแนนไฟล์พื้นฐานหรือแท็ปภายในได้
+VoteThank=ขอบคุณที่ลงคะแนนโหวต การโหวตของท่านได้รับการบันทึกเรียบร้อยแล้ว
+currentVote=การจัดอันดับโดยรวม
+castYourVote=การโหวตของคุณ
+howLike=คุณชื่นชอบเว็บไซต์นี้มากแค่ไหน?
+whatTypeContent=เว็บไซต์นี้ให้ข้อมูลประเภทใดกับคุณ?
+checkAll=(เลือกทั้งหมดที่นำไปใช้)
+shopping=การซื้อสินค้า
+social=สังคม / เกม
+news=ข่าวสาร / บล็อก
+it=IT / ดาวน์โหลด
+corporate=บริษัท
+pornography=สื่อลามก
+violence=อาวุธ / ความรุนแรง
+gambling=การพนัน
+drugs=แอลกอฮอล์ / ยา
+illegal=สินค้าเถื่อน / สิ่งผิดกฏหมาย
+vote=โหวต
+noRating=เว็บไซต์นี้ไม่มีการจัดอันดับ
+ratingPending=กำลังเริ่มการจัดอันดับ
+ratingGood=เว็บไซต์นี้มีการจัดอันดับที่ดี
+ratingAverage=เว็บไซต์นี้มีการจัดอันดับปานกลาง
+ratingBad=เว็บไซต์นี้มีการจัดอันดับที่แย่
+noWeight=(คะแนนโหวตไม่เพียงพอ)
+weight1=(ใช้เสียงส่วนน้อยเป็นเกณฑ์)
+weight2=(ใช้เสียงโหวตเฉพาะกลุ่มเป็นเกณฑ์)
+weight3=(ใช้เสียงส่วนมากเป็นเกณฑ์)
+phishingWarning=คำเตือน
+phishingCreditNumber=เหมือนว่าคณกำลังพิมพ์รหัสผ่านหรือรหัสบัตรเครดิตบนเว็บไซต์ที่มีความน่าเชื่อถือต่ำ กรุณาตรวจสอบให้แน่ใจว่าเป็นเว็บไซต์ที่แท้จริง การกรอกข้อมูลส่วนตัวในเว็บที่ไม่น่าเชื่อถืออาจนำไปสู่ความไม่ปลอดภัย
+phishingPhishingSite=เว็บไซต์นี้ถูกทำเครื่องหมายเป็นเว็บหลอกลวงทางอินเตอร์เน็ต
+malwareSite=เว็บไซต์นี้อาจจะทำอันตรายต่อคอมพิวเตอร์ของคุณ
+malwareSiteRec=เราขอแนะนำให้คุณติดตั้งโปรแกรมป้องกันไวรัส Avast เพื่อสแกนเครื่องคอมพิวเตอร์ของคุณ
+malwareNext=ดาวน์โหลดโปรแกรมป้องกันไวรัส Avast
+phishingTrust=เชื่อใจโดเมนนี้
+phishingClose=เพิกเฉยต่อคำเตือน
+phishingBack=นำฉันออกจากที่นี่
+loginDesc=กรอกข้อมูลการเข้าสู่ระบบบัญชี my.avast.com ของคุณ:
+loginName=ชื่อ:
+loginPswd=รหัสผ่าน:
+loginLogin=เข้าสู่ระบบ
+loginAnonymous=ในฐานะผู้ใช้ที่ไม่ระบุชื่อ
+anonymousUser=ผู้ใช้ไม่ระบุชื่อ
+loginError=การเข้าสู่ระบบล้มเหลว
+loginLogout=ออกจากระบบ
+sfzoneHeadline=Avast SafeZone
+sfzoneDesc=คุณได้เข้าสู่เว็บไซต์ธุรกรรมออนไลน์ คุณต้องการเปิดใน Avast SafeZone หรือไม่?
+sfzoneYes=ใช่
+sfzoneAlways=ใช่ ทุกครั้ง
+sfzoneNo=ไม่
+sfzoneNever=ไม่ใช้อีกเลย
+sfzoneSwitch=สลับไปใช้ Avast SafeZone
+sitecorrectHeadline=SiteCorrect
+sitecorrectText=เว็บไซต์นี้อาจจะไม่ใช่เว็ปไซต์ที่ท่านกำลังต้องการเข้าชม.
+sitecorrectMean=ท่านหมายถึง %s ใช่หรือไม่ ?
+sitecorrectYes=ใช่
+sitecorrectNo=ไม่ใช่ ฉันหมายถึง %s
+sitecorrectAuto=ต่อไปนี้ให้พาฉันไปยังเว็ปไซต์ที่ถูกต้องโดยอัตโนมัติ
+sitecorrectHelp=หากต้องการปรับค่าฟีเจอร์ Avast SiteCorrect กรุณาเปิดอินเตอร์เฟสผู้ใช้ของ Avast จากนั้นให้เข้าไปที่ 'การป้องกันเพิ่มเติม' 'การป้องกันบราวเซอร์' และใช้ปุ่ม 'การตั้งค่า'
+sitecorrectBarMsg=SiteCorrect: เปลี่ยนทิศทางจาก %s โดยอัตโนมัติ
+sitecorrectBarButton=นี่ไม่ใช่ความผิดพลาด พาฉันกลับไปที่เดิม
+close=ปิด
+settingssiteCorrect=SiteCorrect
+settingssiteCorrectDesc=ตรวจสอบและแก้ไข URL ที่พิมพ์ผิดและนำไปยังเว็บไซต์ที่ถูกต้องตามกฎหมาย
+settingssiteCorrectAutoDesc=ข้ามการเตือนโดยอัตโนมัติและเปลี่ยนเส้นทางไปยังเว็บไซต์ที่ถูกต้อง
+settingsphishing0=Surf Shield
+settingsphishing=ป้องกันเว็บไซต์หลอกลวง
+settingsphishing2=ป้องกันเว็บไซต์หลอกลวง
+settingsphishingDesc=สแกนเว็บไซต์สำหรับมัลแวร์และป้องกันเว็บไซต์หลอกลวงทางอินเตอร์เน็ต
+settingssafeZone=SafeZone
+settingssafeZoneDesc=สลับไปที่ SafeZone สำหรับเว็บไซต์ทางการเงินที่มีความสำคัญ (ต้องติดตั้งโปรแกรมป้องกันไวรัส Avast)
+settingscommunityIQ=การแบ่งปันข้อมูล
+settingscommunityIQDesc=ด้วยการเปิดใช้งานตัวเลือกนี้ คุณกำลังให้ความยินยอมเพื่อให้ส่งต่อข้อมูลบางอย่างแบบนิรนามไปยัง Avast เราอาจแบ่งปันข้อมูลแบบไม่เฉพาะเจาะจงกับบุคคลที่สาม
+settingsdnt0=Privacy Shield
+settingsdnt=ไม่ได้ติดตาม
+settingsdnt2=ไม่ได้ติดตาม
+settingsdntDesc=ตรวจสอบและบล็อกโฆษณาที่ไม่พึงประสงค์ และป้องกันเว็บไซต์การวิเคราะห์ที่แอบติดตามคุณ
+settingsdntSocialDesc=บล็อกเครือข่ายสังคมตั้งแต่ค่าเริ่มต้น
+settingsdntAdTrackingDesc=บล็อกการติดตามการโฆษณาตั้งแต่ค่าเริ่มต้น
+settingsdntWebAnalyticsDesc=บล็อกการวิเคราะห์เว็บไซต์ตั้งแต่ค่าเริ่มต้น
+settingsdntOthersDesc=บล็อกสิ่งอื่น ๆ ตั้งแต่ค่าเริ่มต้น
+settingsserp=ผลลัพธ์ในการค้นหา
+settingsserpDesc=เปิดใช้งานสีที่หน้าเพจผลลัพธ์การค้นหา
+settingsserpPopupDesc=เปิดใช้งานป๊อปอัปในเพจผลลัพธ์การค้นหา
+settingsSave=บันทึก
+settingsReset=รีเซ็ตเป็นค่าเริ่มต้น
+votePositive=บวก
+voteNegative=ลบ
+ratingTextUndefined=เว็บไซต์ที่ไม่รู้จัก
+ratingTextPositive=เว็บไซต์นี้ ปลอดภัย
+ratingTextAverage=เว็บไซต์นี้ มีชื่อเสียงที่ไม่ดี
+ratingTextBad=เว็บไซต์นี้ ไม่ปลอดภัย
+ratingRate=คุณให้คะแนนประสบการณ์ของคุณต่อเว็บไซต์นี้อย่างไร?
+ratingPositive=ทำไมคุณถึงจัดอันดับประสบการณ์เป็นบวก?
+ratingNegative=ทำไมคุณถึงจัดอันดับประสบการณ์เป็นลบ?
+ratingNoRate=ฉันยังไม่ต้องการให้คะแนนตอนนี้
+ratingDone=เสร็จสิ้น
+detailsHeadline=Avast สแกนเว็บไซต์นี้แล้ว
+detailsMalwareYes=การตรวจจับมัลแวร์!
+detailsMalwareNo=ไม่พบมัลแวร์
+detailsPhishingYes=การตรวจจับเว็บไซต์หลอกลวง!
+detailsPhishingNo=ไม่พบเว็บไซต์หลอกลวง!
+ratingCommunity=%s การจัดอันดับการสื่อสาร
+ratingLevelUndefined=ไม่
+ratingLevelPositive=บวก
+ratingLevelAverage=ปานกลาง
+ratingLevelBad=แย่
+thanksHeadline=ขอบคุณสำหรับการจัดอันดับ!
+thanksMessage=ส่งคะแนนโหวตของคุณเรียบร้อยแล้ว
+dntHeadline=บริษัท %s พยายามที่จะติดตามคุณ
+dntNetworksDetected=ตรวจจับเน็ตเวิร์คได้ %s
+dntSocialNetworks=โซเชียลเน็ตเวิร์ค
+dntOthersNetworks=อื่นๆ
+dntAdTrackingNetworks=การติดตามโฆษณา
+dntWebAnalyticsNetworks=วิเคราะห์เว็บไซต์
+dntBlocked=บล็อกแล้ว
+dntAllowed=อนุญาต
+dntNetworks=เน็ตเวิร์ค
+dntAllowTrackerAction=อนุญาต
+dntBlockTrackerAction=บล็อก
+dntAllowGroupAction=อนุญาตทั้งหมด
+dntBlockGroupAction=บล็อกทั้งหมด
+dntStatusAllBlocked=บล็อกทั้งหมดแล้ว
+dntStatusAllAllowed=อนุญาตทั้งหมดแล้ว
+dntStatusSomeBlocked=บล็อกบางส่วน
+sideRate=จัดอันดับเดี๋ยวนี้
+sideDetails=เรียนรู้เพิ่มเติม
+sideDashboard=Avast ของฉัน
+sideSettings=ตั้งค่า
+error=ข้อผิดพลาด
+errorUnexpected=ข้อผิดพลาดที่ไม่คาดคิด
+topBarRatingGood=%s ได้รับการจัดอันดับว่าปลอดภัย
+topBarRatingAverage=%s ได้รับการจัดอันดับว่าโอเค
+topBarRatingBad=%s ได้รับการจัดอันดับว่าอันตราย
+topBarDetails=ดูรายละเอียด
+safeZoneDesc=Avast ขอแนะนำให้คุณสลับไปใช้  SafeZone
+safeZoneYes=สลับตอนนี้
+safeZoneNo=ไม่
+safeZoneFeedback=เพื่อความมั่นใจของคุณ URL ที่ร้องขอได้รับการเปิดใน SafeZone
+safeZoneDecline=ไม่มีการนำเสนอการ SafeZone เพื่อ 
+avastLogoOnlineSecuritySuffix=Online Security
+baGlobalSettingsHeader=การตั้งค่าทั้งระบบ
+baMoreSettingsAction=การตั้งค่าเพิ่มเติม
+baMsgTrackingSystemsAre=ขณะนี้ระบบการติดตาม
+baMsgTrackingIsAllowed=ได้รับอนุญาต
+baMsgTrackingIsBlocked=ถูกบล็อก
+baBlockAllSystems=บล็อกระบบการติดตามทั้งหมด
+baAllowAllSystems=อนุญาตระบบการติดตามทั้งหมด
+baAllowBlockOnAllWebsites=สำหรับเว็บไซต์ทั้งหมด
+baYouHaveRateSite1=คุณให้คะแนนเว็บไซต์นี้เป็น
+baYouHaveRateSite2positive=บวก
+baYouHaveRateSite2negative=ลบ
+baYouHaveRateSite3=.
+baTrackingSystems=ระบบการติดตาม
+baOnWebsite=บนเว็บไซต์                                                                                                                                                                                                                                                                                                                                                                     אּ���L�E&t�MSN�>��� [P�PJ}��=g��{��� rF�s��eB��I?�ю>
+�-�W����]��s>��h�%��w[�9��%�ge��ɋ�p���F�Zx�`�F������j.�d�ϐ��h�L���+h^�jW�I�SD��"j���<[.�.Q�&�[Vrb����3�`.�j+��2����xJ��[|u7�VH�&�n����^��|3�\	�/�ۛݖ���pP�����>���|&��oZaZ���,`e�~4 D����k@  �A������`F�=Z�t,�����&1�������Sw�s�9Q�z��]��Kp^_�;�쾂��e_������6�G*���4ye3;
+�w��r����[���9�8x�Ihx�P�����sttL|��O`.�߄����L�CT���.И��Pt���s��|Ni]��Z�,�9j�_���^�Li�.e�d �q���:Ɲq��P^��lI��nF�a#���O�,^�-q�1��'4�eS�;}�i�U���D�d`I����.�쾥"�~�kL�*y9���o���eNM[�T��7�s��"��h�:�s$��2��򮣌ضa�!/-�R��0h(��ܿ�a���?)��1Olo�X�����r��Z���F��M��C�窌0�V'!h�m4u�����f e�ZS|�$�R���|�Pj��l�JS�!�$�

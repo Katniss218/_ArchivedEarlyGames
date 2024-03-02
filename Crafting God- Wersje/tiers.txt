@@ -1,0 +1,48 @@
+100-Wooden
+
+230-Stone
+
+200-Copper
+
+350-Iron
+
+375-Silver
+
+375-Gold
+
+400-DevilSlime Pickaxe (tylko kilof)
+
+475-Meteorite
+
+500/500/500-Demonite
+
+675-Obsidian (obsydian+piekielna ska³a)
+
+700/700/700-Shadow
+
+=== Hardmode ===
+
+
+600-Cobalt
+
+750-Mythrill
+
+875-Adamantite
+
+1250-Hallowed (po³¹czenie 4 powy¿szych i souli jednego z 3 HM bossów tego etapu)
+
+=== UltraHardmode ===
+
+1500-EvilGood (po³¹czenie hallowed i Shadow/Blood/Vile)
+
+1500-Ever Ice (z komet)
+
+1600-Dark Matter
+
+1750-Ancient (pustynne. skomplikowany, wieloetapowy crafting)
+
+2000-Oblivion (ancient+Oblivion Bar'y+Bar of Souls(sztabka z dusz))
+
+3250-Berserker (Ancient+Oblivion+Cisgemhibyashoo Bar+Soul of torture z finalnego bossa - Obliviona)
+
+5000-Ultimate tier (np. RIA, Clockwork Ultrashark, skomplikowany wieloetapowy crafting)

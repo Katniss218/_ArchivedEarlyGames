@@ -1,0 +1,23 @@
+<ul id="sync-introduction-dialog" ng-cloak>
+  <li id="sync-step-1" class="container split-layout" ng-show="focus == 1">
+    <div class="body">
+      <img ng-src="images/sync-introduction-dropdown.png" title="New save to Google Drive" ng-if="show_sync_intro" />
+    </div>
+    <div class="footer notable-dialog">
+      <h1>Introducing Save to Google Drive<sup class="beta">BETA</sup></h1>
+      <p>Your annotations have always saved securely to Kami as you made them, and now we will also save these changes into the PDF file on Google Drive.</p>
+    </div>
+  </li>
+  <li id="sync-step-2" class="container split-layout" ng-show="focus == 2">
+    <div class="body">
+      <ul>
+        <li>One click save available to Basic users</li>
+        <li>Auto Save enabled for Premium users</li>
+        <li>Compatibility with other PDF readers</li>
+        <li>Continue to enjoy realtime collaboration</li>
+        <li><a href="mailto:hello@kamihq.com?subject=Drive Sync" title="Email Kami">hello@kamihq.com</a> for questions</li> 
+      </ul>
+    </div>
+    <div class="footer notable-dialog">
+      <h1>Things you should know</h1>
+      <a href="https://blog.kamihq.com/kami-launches-automatic-google-drive-saving/" tar

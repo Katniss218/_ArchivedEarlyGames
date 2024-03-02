@@ -1,0 +1,30 @@
+changelog: V.0.0.04 Pre-Alpha
+
+- zmioniono sposób "u¿ywania" narzedzi
+- zmieniono grafikê kursora
+- dodano nowe dŸwiêki
+- dodano ³uk
+- dodano rudy wêgla i miedzi
+- zmioniono generacjê œwiata na "lepsz¹"
+- dodano generacjê meteorytu z cobblestone'a przy tworzeniu œwiata
+
+changelog: V.0.0.03 Pre-Alpha
+
+- dodano graficzne przedstawienie stopnia zniszczenia klocka
+- dodano w³asn¹ grafikê kursora
+- dodano "podœwietlanie" klocka najechanego myszk¹
+- zmieniono crafting pieca na 	###
+				# #	- # Cobblestone
+				#@#	- @ WoodPlanks
+				###
+- 2 bugfixy zwi¹zane z craftingiem
+- zmieniono wska¿nik fps
+
+changelog: V.0.0.02 Pre-Alpha
+
+- zmieniono grafikê ekwipunku i pasków ¿ycia, many
+- dodano system receptur craftingu w workbenchu ( piec i kowad³o narazie nie dzia³aj¹ )
+- dodano mo¿liwoœæ przek³adanie itemów w ekwipunku
+- zmieniono kolizjê na lepiej dzia³aj¹c¹
+- dodano wskaŸnik fps'ów w dolnej czêœci okna gry
+- kilka powa¿nych i mniejszych bugfixów

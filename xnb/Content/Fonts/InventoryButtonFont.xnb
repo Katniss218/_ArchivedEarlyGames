@@ -1,0 +1,103 @@
+ and Settings\Kuba\Dane aplikacji\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\com\google\guava\guava\15.0\guava-15.0.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar
+   classpathEntry=C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\versions\1.7.10\1.7.10.jar
+)
+[17:21:41] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[17:21:41] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\mods]
+[17:21:41] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\mods\1.7.10]
+[17:21:41] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[17:21:41] [main/INFO]: Discovering tweaks on class path...
+[17:21:41] [main/INFO]: Discovering valid mod files in folder C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\mods
+[17:21:41] [main/INFO]: Discovering valid mod files in folder C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\mods\1.7.10
+[17:21:41] [main/INFO]: Searching for tweaks in 'Better HUD by NukeDuck [1.7.10][1.3.4].jar'
+[17:21:41] [main/WARN]: Error parsing manifest entries in 'C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\mods\1.7.10\Better HUD by NukeDuck [1.7.10][1.3.4].jar'
+[17:21:41] [main/INFO]: Considering valid mod file: C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\mods\1.7.10\mod_macros_0.10.12_for_1.7.10 (1).litemod
+[17:21:41] [main/INFO]: Considering valid mod file: C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\mods\1.7.10\mod_voxelMap_1.5.20_for_1.7.10.litemod
+[17:21:41] [main/INFO]: Searching for tweaks in 'OptiFine_1.7.10_HD_U_D3.jar'
+[17:21:41] [main/INFO]: Searching for tweaks in 'XRay-7.jar'
+[17:21:41] [main/INFO]: Adding newest valid mod file 'C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\mods\1.7.10\mod_macros_0.10.12_for_1.7.10 (1).litemod' at revision 1012,0000
+[17:21:41] [main/INFO]: Adding newest valid mod file 'C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\mods\1.7.10\mod_voxelMap_1.5.20_for_1.7.10.litemod' at revision 1520,0000
+[17:21:41] [main/INFO]: Mod file 'OptiFine_1.7.10_HD_U_D3.jar' provides tweakClass 'optifine.OptiFineForgeTweaker', adding to Launch queue with priority -1000
+[17:21:41] [main/INFO]: tweakClass 'optifine.OptiFineForgeTweaker' was successfully added
+[17:21:41] [main/INFO]: Mod file 'XRay-7.jar' provides tweakClass 'net.minecraftxray.loader.XRayTweaker', adding to Launch queue with priority -1
+[17:21:41] [main/INFO]: tweakClass 'net.minecraftxray.loader.XRayTweaker' was successfully added
+[17:21:41] [main/INFO]: Mod file 'mod_macros_0.10.12_for_1.7.10 (1).litemod' provides classTransformer 'net.eq2online.macros.transformers.CollectionPacketTransformer', adding to class loader
+[17:21:41] [main/INFO]: classTransformer 'net.eq2online.macros.transformers.CollectionPacketTransformer' was successfully added
+[17:21:41] [main/INFO]: Mod file 'mod_voxelMap_1.5.20_for_1.7.10.litemod' provides classTransformer 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer', adding to class loader
+[17:21:41] [main/INFO]: classTransformer 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer' was successfully added
+[17:21:41] [main/INFO]: LiteLoader PREINIT complete
+[17:21:45] [main/INFO]: Injecting onstartupcomplete[x1] in func_71384_a in Minecraft
+[17:21:45] [main/INFO]: Injecting prerenderfbo[x1] in func_71411_J in Minecraft
+[17:21:45] [main/INFO]: Injecting postrenderfbo[x1] in func_71411_J in Minecraft
+[17:21:45] [main/INFO]: Injecting ontimerupdate[x1] in func_71411_J in Minecraft
+[17:21:45] [main/INFO]: Injecting onrender[x1] in func_71411_J in Minecraft
+[17:21:45] [main/INFO]: Injecting ontick[x1] in func_71411_J in Minecraft
+[17:21:45] [main/INFO]: Injecting shutdown[x1] in func_71400_g in Minecraft
+[17:21:45] [main/INFO]: Injecting updateframebuffersize[x1] in func_147119_ah in Minecraft
+[17:21:45] [main/INFO]: Injecting newtick[x1] in func_71407_l in Minecraft
+[17:21:45] [main/INFO]: Applying overlay com.mumfrey.liteloader.client.overlays.MinecraftOverlay to net.minecraft.client.Minecraft
+[17:21:45] [main/INFO]: MinecraftOverlayTransformer found INIT injection point, this is good.
+[17:21:45] [main/INFO]: Injecting onoutboundchat[x1] in func_71165_d in EntityClientPlayerMP
+[17:21:45] [main/INFO]: Injecting onc16packetclientstatus[x1] in func_148833_a in C16PacketClientStatus
+[17:21:46] [main/INFO]: Injecting onrenderchat[x1] in func_73830_a in GuiIngame
+[17:21:46] [main/INFO]: Injecting postrenderchat[x1] in func_73830_a in GuiIngame
+[17:21:46] [main/INFO]: Injecting onc00handshake[x1] in func_148833_a in C00Handshake
+[17:21:46] [main/INFO]: Injecting onc00packetloginstart[x1] in func_148833_a in C00PacketLoginStart
+[17:21:46] [main/INFO]: Injecting ons03packettimeupdate[x1] in func_148833_a in S03PacketTimeUpdate
+[17:21:48] [main/INFO]: Injecting ons34packetmaps[x1] in func_148833_a in S34PacketMaps
+[17:21:48] [Client thread/INFO]: Injecting onc15packetclientsettings[x1] in func_148833_a in C15PacketClientSettings
+[17:21:49] [Client thread/INFO]: Injecting ons23packetblockchange[x1] in func_148833_a in S23PacketBlockChange
+[17:21:49] [Client thread/INFO]: Injecting oncreateintegratedserver[x1] in <init> in IntegratedServer
+[17:21:50] [Client thread/INFO]: Injecting constructchunkfrompacket[x1] in func_76607_a in Chunk
+[17:21:50] [Client thread/INFO]: Injecting prerendergui[x1] in func_78480_b in EntityRenderer
+[17:21:50] [Client thread/INFO]: Injecting onrenderhud[x1] in func_78480_b in EntityRenderer
+[17:21:50] [Client thread/INFO]: Injecting postrenderhud[x1] in func_78480_b in EntityRenderer
+[17:21:50] [Client thread/INFO]: Injecting onrenderworld[x1] in func_78471_a in EntityRenderer
+[17:21:50] [Client thread/INFO]: Injecting onsetupcameratransform[x1] in func_78471_a in EntityRenderer
+[17:21:50] [Client thread/INFO]: Injecting postrenderentities[x1] in func_78471_a in EntityRenderer
+[17:21:50] [Client thread/INFO]: Injecting postrender[x1] in func_78471_a in EntityRenderer
+[17:21:50] [Client thread/INFO]: Injecting postrender[x1] in func_78471_a in EntityRenderer
+[17:21:50] [Client thread/INFO]: Injecting ons35packetupdatetileentity[x1] in func_148833_a in S35PacketUpdateTileEntity
+[17:21:53] [Client thread/INFO]: Injecting renderfbo[x1] in func_147615_c in Framebuffer
+[17:22:26] [Client thread/INFO]: JInput Component Registry is initialising...
+[17:22:27] [Client thread/INFO]: Inspecting Keyboard controller Urz¹dzenie klawiatury HI on Unknown...
+[17:22:27] [Client thread/INFO]: Inspecting Mouse controller Mysz zgodna z HID on Unknown...
+[17:22:27] [Client thread/INFO]: Inspecting Unknown controller Lenovo Black Silk USB Keyboard on Unknown...
+[17:22:27] [Client thread/INFO]: Inspecting Unknown controller Lenovo Black Silk USB Keyboard on Unknown...
+[17:22:27] [Client thread/INFO]: JInput Component Registry initialised, found 4 controller(s) 154 component(s)
+[17:22:27] [Client thread/INFO]: Injecting onc17packetcustompayload[x1] in func_148833_a in C17PacketCustomPayload
+[17:22:27] [Client thread/INFO]: Injecting ons3fpacketcustompayload[x1] in func_148833_a in S3FPacketCustomPayload
+[17:22:27] [Client thread/INFO]: LiteLoader begin INIT...
+[17:22:27] [Client thread/INFO]: Baking listener list for CoreProvider with 2 listeners
+[17:22:27] [Client thread/INFO]: Injecting external mods into class path...
+[17:22:27] [Client thread/INFO]: Injecting external mods into class path...
+[17:22:27] [Client thread/INFO]: Discovering mods on class path...
+[17:22:27] [Client thread/INFO]: Searching C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\com\mumfrey\liteloader\1.7.10\liteloader-1.7.10.jar...
+[17:22:27] [Client thread/INFO]: Searching C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\net\minecraft\launchwrapper\1.11\launchwrapper-1.11.jar...
+[17:22:27] [Client thread/INFO]: Searching C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar...
+[17:22:27] [Client thread/INFO]: Searching C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\com\google\guava\guava\16.0\guava-16.0.jar...
+[17:22:27] [Client thread/INFO]: Searching C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\net\minecraftforge\forge\1.7.10-10.13.4.1558-1.7.10\forge-1.7.10-10.13.4.1558-1.7.10.jar...
+[17:22:27] [Client thread/INFO]: Searching C:\Documents and Settings\Kuba\Dane aplikacji\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwra
